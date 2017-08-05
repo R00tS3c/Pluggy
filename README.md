@@ -20,7 +20,7 @@ Example:
 
 ```javascript
 
-var Pluggy = require("../src/main");
+var Pluggy = require('pluggy');
 var pluggy = new Pluggy({
 	credentials: {
 		email: "email",
