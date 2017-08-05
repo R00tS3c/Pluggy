@@ -5,7 +5,7 @@
 
 A generic NodeJS API for creating plug.dj bots.
 
-Originally by [Chris Vickery](https://github.com/chrisinajar), now maintained by [TAT](https://github.com/TATDK) and [The plug³ Team](https://github.com/plugCubed).
+Originally by [Ciker](https://github.com/CikerDeveloper)
 
 **NOTE:** Currently not supporting Facebook login.
 
