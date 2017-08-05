@@ -5,7 +5,7 @@
 
 A generic NodeJS API for creating plug.dj bots.
 
-Originally by [Ciker](https://github.com/CikerDeveloper)
+Originally created by [Ciker](https://github.com/CikerDeveloper)
 
 **NOTE:** Currently not supporting Facebook login.
 
