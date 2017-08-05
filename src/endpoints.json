@@ -1,0 +1,80 @@
+{
+	"auth": {
+		"facebook": 		"/_/auth/facebook",
+		"login":			"/_/auth/login",
+		"reset":			"/_/auth/reset/me",
+		"session":			"/_/auth/session",
+		"token":			"/_/auth/token"
+	},
+	"bans": {
+		"default":			"/_/bans",
+		"add":				"/_/bans/add"
+	},
+	"booth": {
+		"default":			"/_/booth",
+		"add":				"/_/booth/add",
+		"cycle":			"/_/booth/cycle",
+		"lock":				"/_/booth/lock",
+		"move":				"/_/booth/move",
+		"remove":			"/_/booth/remove/:id",
+		"skip":				"/_/booth/skip",
+		"skipSelf":			"/_/booth/skip/me"
+	},
+	"chatDelete":			"/_/chat/:cid",
+	"csrf":					"/_/mobile/init",
+	"friends": {
+		"default":			"/_/friends",
+		"invites":			"/_/friends/invites",
+		"ignore":			"/_/friends/ignore"
+	},
+	"grabs":				"/_/grabs",
+	"votes":				"/_/votes",
+	"ignores":				"/_/ignores",
+	"mutes":				"/_/mutes",
+	"news":					"/_/news",
+	"notifications":		"/_/notifications",
+	"rooms": {
+		"default":			"/_/rooms",
+		"history":			"/_/rooms/history",
+		"state":			"/_/rooms/state",
+		"favorites":		"/_/rooms/favorites",
+		"validate":			"/_/rooms/validate/",
+		"join":				"/_/rooms/join",
+		"update":			"/_/rooms/update"
+	},
+	"playlists": {
+		"default":			"/_/playlists",
+		"activate":			"/_/playlists/:id/activate",
+		"media":			"/_/playlists/:id/media",
+		"rename":			"/_/playlists/:id/rename",
+		"shuffle":			"/_/playlists/:id/shuffle",
+		"media": {
+			"delete":		"/_/playlists/:id/media/delete",
+			"insert":		"/_/playlists/:id/media/insert",
+			"move":			"/_/playlists/:id/media/move",
+			"update":		"/_/playlists/:id/media/update"
+		}
+	},
+	"plug":					"https://plug.dj",
+	"profileBlurb":			"/_/profile/blurb",
+	"staff": {
+		"default":			"/_/staff",
+		"update":			"/_/staff/update"
+	},
+	"store": {
+		"products":			"/_/store/products",
+		"inventory":		"/_/store/inventory",
+		"purchase":			"/_/store/purchase"
+	},
+	"users": {
+		"default":			"/_/users/:id",
+		"history":			"/_/users/me/history",
+		"transactions":		"/_/users/me/transactions",
+		"validate":			"/_/users/validate/",
+		"badge":			"/_/users/badge",
+    	"avatar":			"/_/users/avatar",
+    	"settings":			"/_/users/settings",
+    	"language":			"/_/users/language",
+    	"bulk":				"/_/users/bulk"
+	}
+}
