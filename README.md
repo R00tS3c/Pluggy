@@ -1,4 +1,4 @@
-## Pluggy  [![Issues](https://img.shields.io/github/issues/CikerDeveloper/Pluggy.svg)](https://img.shields.io/github/issues/CikerDeveloper/Pluggy.svg)[![Build Status](https://travis-ci.org/CikerDeveloper/Pluggy.svg)](https://travis-ci.org/CikerDeveloper/Pluggy.svg)
+## Pluggy  [![Issues](https://img.shields.io/github/issues/CikerDeveloper/Pluggy.svg)](https://img.shields.io/github/issues/CikerDeveloper/Pluggy.svg) [![Build Status](https://travis-ci.org/CikerDeveloper/Pluggy.svg)](https://travis-ci.org/CikerDeveloper/Pluggy.svg) [![License](https://img.shields.io/badge/license-AGPL-blue.svg)](https://img.shields.io/badge/license-AGPL-blue.svg) [![Stars](https://img.shields.io/github/stars/CikerDeveloper/Pluggy.svg)](https://img.shields.io/github/stars/CikerDeveloper/Pluggy.svg) [![Forks](https://img.shields.io/github/forks/CikerDeveloper/Pluggy.svg)](https://img.shields.io/github/forks/CikerDeveloper/Pluggy.svg) 
 
 ## About
 
