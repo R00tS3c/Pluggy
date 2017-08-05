@@ -1,4 +1,4 @@
-## Pluggy  [![Build Status](https://img.shields.io/github/issues/CikerDeveloper/Pluggy.svg)](https://travis-ci.org/CikerDeveloper/Pluggy.svg)
+## Pluggy  [![Issues](https://img.shields.io/github/issues/CikerDeveloper/Pluggy.svg)](https://img.shields.io/github/issues/CikerDeveloper/Pluggy.svg)[![Build Status](https://travis-ci.org/CikerDeveloper/Pluggy.svg)](https://travis-ci.org/CikerDeveloper/Pluggy.svg)
 
 ## About
 
