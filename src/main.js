@@ -223,7 +223,7 @@ var EventHandler = (data) => {
 			data = Mapper.map(data);
 
 			for (var i = 0; i < data.users.length; i++) {
-				if (data.users[i].role == 5) {
+				if (data.users[i].role == 5000) {
 					that.room.state.meta.hostID = data.users[i].userID;
 					that.room.state.meta.hostName = data.users[i].username;
 				}
