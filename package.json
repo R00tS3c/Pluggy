@@ -5,19 +5,19 @@
   "main": "src/index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/CikerDeveloper/Pluggy"
+    "url": "git+https://github.com/R00tS3c/Pluggy"
   },
-  "author": "Ciker",
+  "author": "R00tS3c",
   "license": "GPL-3.0",
   "scripts": {
     "test": "node test/test.js"
   },
   "bugs": {
-    "url": "https://github.com/CikerDeveloper/Pluggy/issues"
+    "url": "https://github.com/CikerDeveloper/R00tS3c/issues"
   },
   "contributors": [
     {
-      "name": "Ciker",
+      "name": "R00tS3c",
       "email": "microfix1252002@gmail.com"
     }
   ],
